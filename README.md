@@ -14,16 +14,16 @@
 from github import user
 class Iuser(user):
     def __init__(self):
-        self.firstname = "Bhavesh"
-        self.lastname  = "Chavda"
-        self.username  = "bsmarty978"
-        self.aliases   = ["chevi","nameless_hostage"]
-        self.tagline   = "Pythonista | AR/VR entusiasit"
-        self.programming_languages = ["Python","JavsaScript","NodeJS","C/C++"]
-        self.web_Technologies  = ["HTML","CSS","REST API","SCSS","Bootstrap"]
-        self.graphics_tools  = ["After Effects","Photoshop","Premier Pro","Figma", "Blender", "Filmora","..."]
+        self.FirstName = "Bhavesh"
+        self.LastName  = "Chavda"
+        self.UserName  = "bsmarty978"
+        self.Aliases   = ["chevi","nameless_hostage"]
+        self.TagLine   = "Pythonista | AR/VR entusiasit"
+        self.Programming_Languages = ["Python","JavsaScript","NodeJS","C/C++"]
+        self.Web_Technologies  = ["HTML","CSS","REST API","SCSS","Bootstrap"]
+        self.Graphics_Tools  = ["After Effects","Photoshop","Premier Pro","Figma", "Blender", "Filmora","..."]
         self.Frameworks  = ["Django","Scrapy","Selenium","Spark-AR Studio","Flask","Pandas","Numpy","...."]
-        self.personal_info ={
+        self.Personal_Info ={
             "age" : 22,
             "country" : "India",
             "org" : "nameless_hostage_villa",
@@ -48,7 +48,7 @@ class Iuser(user):
             ]
         }
 
-        self.ongoing_projects =[
+        self.Ongoing_Projects =[
             {
                 "name" : "chanka-bot",
                 "repo" : "https://github.com/bsmarty978/chanka-bot",
