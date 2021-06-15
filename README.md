@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![Me](https://media.giphy.com/media/laypf9a5MZ3ocPqpLm/giphy-downsized.gif)
+![Me](https://media.giphy.com/media/laypf9a5MZ3ocPqpLm/giphy-downsized-large.gif)
 
 ### Me ⬆
 
