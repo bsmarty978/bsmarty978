@@ -81,5 +81,5 @@ class Iuser(user):
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsmarty978&theme=outrun)
 
-## SPOTIFY
+## listening 🎧🎶  
 [![Spotify](https://spotifyreadme-black.vercel.app/api/spotify)](https://open.spotify.com/user/xnmuoyyvojewhh68so9uvjw4t)
